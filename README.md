@@ -74,38 +74,6 @@ Currently, I lead innovation initiatives at **Oxygeni Hub**, connecting academia
 
 ---
 
-# 🚀 Main Skills
-
-- 🤖 Artificial Intelligence
-- 👁️ Computer Vision
-- 🧠 Prompt Engineering
-- ⚛️ React Development
-- ☕ Spring Boot APIs
-- 🐘 PHP & Laravel
-- 🐍 Python Development
-- 🔗 REST APIs
-- 📊 Business Analysis
-- 💡 Innovation Management
-- 📈 Product Strategy
-- 🏢 Digital Transformation
-- 📋 Agile Methodologies
-- 🌐 Full Stack Development
-
----
-
-# 🚀 Featured Projects
-
-- 🤖 AI Applications
-- 👁️ Computer Vision Systems
-- 📱 Laravel Web Platforms
-- ⚛️ React Applications
-- ☕ Spring Boot APIs
-- 💻 Full Stack Systems
-- 🚀 Innovation Projects
-- 📊 Business Intelligence Solutions
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -122,6 +90,10 @@ Currently, I lead innovation initiatives at **Oxygeni Hub**, connecting academia
 
 <a href="https://www.linkedin.com/in/pedroribeiroinov/">
 <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Ribeiro-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/ribeiro.zip/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-@ribeiro.zip-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:pedro.oxygeni@gmail.com">
