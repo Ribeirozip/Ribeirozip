@@ -106,18 +106,6 @@ Currently, I lead innovation initiatives at **Oxygeni Hub**, connecting academia
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedroribeirodev&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroribeirodev&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -132,11 +120,11 @@ Currently, I lead innovation initiatives at **Oxygeni Hub**, connecting academia
 
 <p>
 
-<a href="https://www.linkedin.com/in/pedroribeirodev">
+<a href="https://www.linkedin.com/in/pedroribeiroinov/">
 <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Ribeiro-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:SEUEMAIL">
+<a href="mailto:pedro.oxygeni@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -145,4 +133,3 @@ Currently, I lead innovation initiatives at **Oxygeni Hub**, connecting academia
 ---
 
 > **"Innovation happens when technology meets purpose."** 🚀
-```
